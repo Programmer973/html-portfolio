@@ -1,0 +1,38 @@
+nav{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+body{
+    background-color: #f0f0f0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+}
+h2{
+    color: #5b1414;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+a{
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;}
+a:hover{
+    text-decoration: underline;
+}
+footer{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
