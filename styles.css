@@ -12,16 +12,23 @@ nav{
 
 }
 
-body{
-    background-color: #f0f0f0;
+body {
+    font-family: 'Oswald';font-size: 22px;
+    background-color: antiquewhite;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
 }
+
+
+
+
 h2{
     color: #5b1414;
     font-size: 24px;
+    font-weight:bold;
     margin-bottom: 10px;
+    padding-left: 35px;
 }
 a{
     color: #007BFF;
