@@ -62,10 +62,10 @@ a:hover {
     background-color: #333;
     color: whitesmoke;
     text-align: center;
-    padding: 20px;
+    
     font-size: 30px;
     font-family: 'Oswald';
-    position: fixed;
-    bottom: 1px;;
+    margin-bottom: 0;
+    height: 100%;
     width: 100%;
 }
